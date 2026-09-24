@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Aspiring Data Analyst
 
-I'm a 3rd-year Computer Science Engineering student interested in **Data Analytics, Business Intelligence, Data Visualization, and SQL**.
+I'm a Computer Science Engineering student interested in **Data Analytics, Business Intelligence, Data Visualization, and SQL**.
 
 I enjoy working with data, building dashboards, writing SQL queries, and turning raw data into meaningful insights.
 
@@ -10,7 +10,7 @@ I enjoy working with data, building dashboards, writing SQL queries, and turning
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech Computer Science Engineering Student
+- 🎓 B.Tech Computer Science Engineering Student
 - 📊 Aspiring Data Analyst
 - 🗄️ Learning and practicing SQL & MySQL
 - 📈 Building interactive dashboards using Power BI
@@ -43,14 +43,6 @@ I enjoy working with data, building dashboards, writing SQL queries, and turning
 - C++
 - Python *(Learning)*
 
-### 🗄️ Database
-- MySQL
-- SQL
-- DBMS
-- Relational Databases
-
----
-
 ## 📌 Featured Projects
 
 ### 📊 Sales Insights Dashboard
@@ -59,7 +51,6 @@ I enjoy working with data, building dashboards, writing SQL queries, and turning
 - Built an interactive sales dashboard using Power BI
 - Connected MySQL database with Power BI
 - Analyzed sales and revenue performance
-- Created KPIs and interactive visualizations
 - Worked with data transformation and preparation
 
 🔗 **Repository:** [Sales Insights Dashboard](#)
