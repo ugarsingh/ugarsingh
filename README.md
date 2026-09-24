@@ -81,7 +81,7 @@ I'm continuously working on projects to gain practical experience and improve my
   <a href="ugar-singh-ab3b96288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/ugarsingh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
