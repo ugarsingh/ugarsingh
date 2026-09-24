@@ -92,11 +92,11 @@ I'm continuously working on projects to gain practical experience and improve my
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  <img src="https://skillicons.dev/icons?i=tableau" />
-  <img src="https://skillicons.dev/icons?i=excel" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="45" height="45" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt="Tableau"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="45" height="45" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/c" width="45" height="45" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="45" height="45" alt="C++"/>
 </p>
