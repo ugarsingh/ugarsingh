@@ -93,32 +93,10 @@ I'm continuously working on projects to gain practical experience and improve my
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=tableau" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=excel" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
