@@ -52,27 +52,7 @@ I enjoy working with data, building dashboards, writing SQL queries, and turning
 - Connected MySQL database with Power BI
 - Analyzed sales and revenue performance
 - Worked with data transformation and preparation
-
-🔗 **Repository:** [Sales Insights Dashboard](#)
-
----
-
-### 🗄️ SQL Data Analysis
-
-**MySQL | SQL**
-
-A collection of SQL queries and practice projects covering:
-
-- SELECT & WHERE
-- Filtering & Sorting
-- Aggregate Functions
-- GROUP BY & HAVING
-- JOINs
-- Subqueries
-- Window Functions
-
-🔗 **Repository:** [SQL Data Analysis](#)
-
+  
 ---
 
 ## 📚 Currently Learning
@@ -98,7 +78,7 @@ I'm continuously working on projects to gain practical experience and improve my
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/ugar-singh-ab3b96288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_GITHUB_URL">
