@@ -92,6 +92,7 @@ I'm continuously working on projects to gain practical experience and improve my
 ## 🧰 Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="45" height="45" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="45" height="45" alt="Tableau"/>
