@@ -1,19 +1,123 @@
-## Hi there 👋
+# Hi, I'm Ugar Singh 👋
 
-<!--
-**ugarsingh/ugarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Science Engineering student interested in **Data Analytics, Business Intelligence, Data Visualization, and SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building dashboards, writing SQL queries, and turning raw data into meaningful insights.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year B.Tech Computer Science Engineering Student
+- 📊 Aspiring Data Analyst
+- 🗄️ Learning and practicing SQL & MySQL
+- 📈 Building interactive dashboards using Power BI
+- 📑 Working with Excel for data analysis
+- 💻 Programming with C & C++
+- 🚀 Currently improving my Data Analytics skills
+- 🔍 Interested in Data Analyst / Business Intelligence opportunities
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 📊 Data Analytics
+- SQL
+- MySQL
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+### 📈 Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- Excel
+- Dashboard Development
+
+### 💻 Programming
+- C
+- C++
+- Python *(Learning)*
+
+### 🗄️ Database
+- MySQL
+- SQL
+- DBMS
+- Relational Databases
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Sales Insights Dashboard
+**Power BI | MySQL | SQL | Power Query**
+
+- Built an interactive sales dashboard using Power BI
+- Connected MySQL database with Power BI
+- Analyzed sales and revenue performance
+- Created KPIs and interactive visualizations
+- Worked with data transformation and preparation
+
+🔗 **Repository:** [Sales Insights Dashboard](#)
+
+---
+
+### 🗄️ SQL Data Analysis
+
+**MySQL | SQL**
+
+A collection of SQL queries and practice projects covering:
+
+- SELECT & WHERE
+- Filtering & Sorting
+- Aggregate Functions
+- GROUP BY & HAVING
+- JOINs
+- Subqueries
+- Window Functions
+
+🔗 **Repository:** [SQL Data Analysis](#)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- DAX
+- Power Query
+- Excel for Data Analysis
+- Python & Pandas
+- Statistics for Data Analysis
+
+---
+
+## 🎯 Career Goal
+
+My goal is to build a career in **Data Analytics** and develop strong skills in SQL, Business Intelligence, Data Visualization, and problem solving.
+
+I'm continuously working on projects to gain practical experience and improve my technical skills.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
 ## 🧰 Tech Stack
 
 <p align="left">
