@@ -91,19 +91,38 @@ I'm continuously working on projects to gain practical experience and improve my
 ⭐ **Thanks for visiting my profile!**
 ## 🧰 Tech Stack
 
+<h3>💻 Skills & Technologies</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="45" height="45" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="45" height="45" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg" width="45" height="45" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/c.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/cplusplus.svg" width="45" height="45" alt="C++"/>
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</p>
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+       width="50" height="50" alt="SQL"/>
+
+  <!-- MySQL -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql"
+       width="50" height="50" alt="MySQL"/>
+
+  <!-- Power BI -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=pbi"
+       width="50" height="50" alt="Power BI"/>
+
+  <!-- Tableau -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=tableau"
+       width="50" height="50" alt="Tableau"/>
+
+  <!-- Excel -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=excel"
+       width="50" height="50" alt="Excel"/>
+
+  <!-- Python -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python"
+       width="50" height="50" alt="Python"/>
+
+  <!-- C -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=c"
+       width="50" height="50" alt="C"/>
+
+  <!-- C++ -->
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cpp"
+       width="50" height="50" alt="C++"/>
 </p>
