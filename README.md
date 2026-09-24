@@ -78,7 +78,7 @@ I'm continuously working on projects to gain practical experience and improve my
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="ugar-singh-ab3b96288">
+  <a href="https://www.linkedin.com/in/ugar-singh-ab3b96288/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ugarsingh">
