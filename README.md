@@ -100,4 +100,10 @@ I'm continuously working on projects to gain practical experience and improve my
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/c.svg" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/cplusplus.svg" width="45" height="45" alt="C++"/>
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
 </p>
