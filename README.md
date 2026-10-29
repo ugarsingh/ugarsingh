@@ -43,16 +43,6 @@ I enjoy working with data, building dashboards, writing SQL queries, and turning
 - C++
 - Python *(Learning)*
 
-## 📌 Featured Projects
-
-### 📊 Sales Insights Dashboard
-**Power BI | MySQL | SQL | Power Query**
-
-- Built an interactive sales dashboard using Power BI
-- Connected MySQL database with Power BI
-- Analyzed sales and revenue performance
-- Worked with data transformation and preparation
-  
 ---
 
 ## 📚 Currently Learning
